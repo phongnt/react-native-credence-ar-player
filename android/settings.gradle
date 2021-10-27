@@ -1,0 +1,2 @@
+include ":credence-ar-player-android"
+project(":credence-ar-player-android").projectDir = file("../../app")
